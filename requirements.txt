@@ -61,7 +61,7 @@ jmespath==1.0.1
 joblib==1.2.0
 jsonpickle==3.0.1
 jsonschema==4.17.3
-keras==2.11.0
+keras==2.13.1
 kiwisolver==1.4.4
 libclang==16.0.0
 locket==1.0.0
